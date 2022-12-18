@@ -5,6 +5,7 @@ Consiste em um matérial elaborado por Lucas Sousa Martins para o curso de DSA n
 Como referência, utilizou-se o livro "Manual de Análise de dados - Estatísta e Modelagem Multivariada com Excel, SPSS e Stata"
 
 Mais informações:
-GITHUB: https://github.com/lucas0usa \\
 
-LINKEDIN: https://www.linkedin.com/in/lucass0usa/
+**GITHUB:** https://github.com/lucas0usa \\
+
+**LINKEDIN:** https://www.linkedin.com/in/lucass0usa/
