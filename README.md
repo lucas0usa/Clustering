@@ -6,6 +6,6 @@ Como referência, utilizou-se o livro "Manual de Análise de dados - Estatísta 
 
 Mais informações:
 
-**GITHUB:** https://github.com/lucas0usa \\
+**GITHUB:** https://github.com/lucas0usa
 
 **LINKEDIN:** https://www.linkedin.com/in/lucass0usa/
